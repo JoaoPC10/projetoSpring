@@ -1,6 +1,6 @@
 package io.github.dougllasfps.clientes.rest;
 
-import io.github.dougllasfps.clientes.rest.exceptio.ApiErrors;
+import io.github.dougllasfps.clientes.rest.exception.ApiErrors;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.validation.BindingResult;
